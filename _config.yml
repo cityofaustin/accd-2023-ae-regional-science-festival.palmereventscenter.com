@@ -14,10 +14,14 @@ utility_coordinator:
   name: Belinda Nash-Harris
   email: Belinda.Nash@austintexas.gov
   phone: 5124044203
+security_coordinator:
+  name: Ava Palatiere
+  email: Ava.Palatiere@austintexas.gov
+  phone: 5124044115
 it_coordinator:
-  name: Joel Baumwart
-  email: joel.baumwart@austintexas.gov
-  phone: 5124044036
+  name: Jason Perkins
+  email: jason.perkins@austintexas.gov
+  phone: 5124044089
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.4
 searchable: true
